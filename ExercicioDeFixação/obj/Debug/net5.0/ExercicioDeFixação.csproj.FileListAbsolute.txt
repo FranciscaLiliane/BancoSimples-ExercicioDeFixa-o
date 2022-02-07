@@ -1,0 +1,16 @@
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.exe
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.deps.json
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.runtimeconfig.json
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.runtimeconfig.dev.json
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.dll
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ref\ExercicioDeFixação.dll
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\bin\Debug\net5.0\ExercicioDeFixação.pdb
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.csproj.AssemblyReference.cache
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.AssemblyInfoInputs.cache
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.AssemblyInfo.cs
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.csproj.CoreCompileInputs.cache
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.dll
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ref\ExercicioDeFixação.dll
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.pdb
+C:\Users\liliane.silva\source\repos\ExercicioDeFixação\ExercicioDeFixação\obj\Debug\net5.0\ExercicioDeFixação.genruntimeconfig.cache
